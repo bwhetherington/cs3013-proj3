@@ -1,0 +1,32 @@
+Script started on Mon 08 Oct 2018 03:52:39 AM EDT
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 1 10
+The total for 1 to 10 using 1 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 2 10
+The total for 1 to 10 using 2 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 3 10
+The total for 1 to 10 using 3 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 4 10
+The total for 1 to 10 using 4 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 5 10
+The total for 1 to 10 using 5 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 6 10
+The total for 1 to 10 using 6 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 7 10
+The total for 1 to 10 using 7 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 8 10
+The total for 1 to 10 using 8 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 9 10
+The total for 1 to 10 using 9 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ ./addem 10 10
+The total for 1 to 10 using 10 threads is 55.
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ 
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ script
+Script started, file is typescript
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ 
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ exit
+exit
+Script done, file is typescript
+]0;benjaminhetherington@alsargent-VirtualBox: ~/CS3013/sf_CS3013/proj3/part1[01;32mbenjaminhetherington@alsargent-VirtualBox[00m:[01;34m~/CS3013/sf_CS3013/proj3/part1[00m$ exit
+exit
+
+Script done on Mon 08 Oct 2018 03:53:26 AM EDT
